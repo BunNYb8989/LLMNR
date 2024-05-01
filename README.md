@@ -95,3 +95,11 @@ john NTMLv2Hashes.txt --wordlist+/usr/share/seclists/rockyou.txt
 
 ```
 
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/de-hash.png" height="40%" width="40%"/>
+<br/>
+<br/>
+</p>
