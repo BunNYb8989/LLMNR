@@ -32,3 +32,15 @@ This query is typically a multicast message sent to the link-local multicast add
 <br/>
 <br/>
 </p>
+
+Responder.py with the appropriate parameters to start listening for LLMNR queries and poison responses.
+
+sudo python3 /usr/share/doc/python3-impacket/examples/Responder.py -I eth0
+
+```
+sudo reponder -I eth0 -v
+```
+
+Replace eth0 with the interface connected to the network.
+This command starts Responder.py, which will listen for LLMNR (and other) queries on the specified network interface (eth0 in this case).
+When it detects an LLMNR query, it will respond with a malicious response, potentially redirecting traffic or capturing sensitive information.
