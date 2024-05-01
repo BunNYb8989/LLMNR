@@ -62,5 +62,7 @@ When it detects an LLMNR query, it will respond with a malicious response, poten
 <br/>
 </p>
 
-Here the victim is trying to access the files. But in the background throught the WHITESHARK we can see the packeges
+Here the victim is trying to access the files. But in the background throught the WHITESHARK we can see the packets
+
+
 
