@@ -73,3 +73,20 @@ Here the victim is trying to access the files. But in the background throught th
 <br/>
 </p>
 
+Successfully poisoned the client resolution request. And redirected to attacking machine.
+our own machine
+we can also see the ntlm hash and tlm version 2 in this case
+
+
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/hash.png" height="40%" width="40%"/>
+<br/>
+<br/>
+</p>
+
+
+
+
