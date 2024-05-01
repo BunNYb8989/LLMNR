@@ -24,7 +24,13 @@ This query is typically a multicast message sent to the link-local multicast add
 
 4.Resolution: The querying device receives the response and can then communicate directly with the target device using its IP address.
 
- # IN LINUX TERMINAL 
+ # IN LINUX TERMINAL  <p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/kali.gif" height="4%" width="4%"/>
+<br/>
+<br/>
+</p>
 
 <p align="center">
 <b>Root User</b>
