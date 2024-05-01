@@ -10,7 +10,7 @@ LLMNR is the successor to NetBIOS.  NetBIOS (Network Basic Input/Output System) 
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/llmnr.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/llmnr.png" height="50%" width="50%"/>
 <br/>
 <br/>
 </p>
@@ -35,7 +35,7 @@ This query is typically a multicast message sent to the link-local multicast add
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/responder.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/responder.png" height="50%" width="50%"/>
 <br/>
 <br/>
 </p>
@@ -57,7 +57,7 @@ When it detects an LLMNR query, it will respond with a malicious response, poten
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/victim.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/victim.png" height="50%" width="50%"/>
 <br/>
 <br/>
 </p>
@@ -68,7 +68,7 @@ Here the victim is trying to access the files. But in the background throught th
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/whiteshark.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/whiteshark.png" height="50%" width="50%"/>
 <br/>
 <br/>
 </p>
@@ -82,7 +82,7 @@ we can also see the ntlm hash and tlm version 2 in this case
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/hash.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/hash.png" height="50%" width="50%"/>
 <br/>
 <br/>
 </p>
@@ -99,7 +99,7 @@ john NTMLv2Hashes.txt --wordlist+/usr/share/seclists/rockyou.txt
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/de-hash.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/de-hash.png" height="60%" width="60%"/>
 <br/>
 <br/>
 </p>
