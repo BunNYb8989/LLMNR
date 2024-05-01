@@ -28,7 +28,7 @@ This query is typically a multicast message sent to the link-local multicast add
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="github.com/BunNYb8989/LLMNR/blob/main/responder.png" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/responder.png" height="40%" width="40%"/>
 <br/>
 <br/>
 </p>
