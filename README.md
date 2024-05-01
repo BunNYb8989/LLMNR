@@ -88,7 +88,7 @@ we can also see the ntlm hash and tlm version 2 in this case
 </p>
 
 And after the grabeing the hash and crack the password
-by using the johntheripper(password cracking tool) and we can  essentially specify our dictionary attack word list
+by using the john=the-ripper(password cracking tool) and we can  essentially specify our dictionary attack word list
 
 ```
 john NTMLv2Hashes.txt --wordlist+/usr/share/seclists/rockyou.txt
