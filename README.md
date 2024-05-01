@@ -53,3 +53,13 @@ This command starts Responder.py, which will listen for LLMNR (and other) querie
 When it detects an LLMNR query, it will respond with a malicious response, potentially redirecting traffic or capturing sensitive information.
 
 
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/victim.png
+" height="40%" width="40%"/>
+<br/>
+<br/>
+</p>
+
