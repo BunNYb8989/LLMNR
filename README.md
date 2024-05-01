@@ -27,7 +27,7 @@ This query is typically a multicast message sent to the link-local multicast add
  # IN LINUX TERMINAL  <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/kali.gif" height="4%" width="4%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/kali.gif" height="5%" width="5%"/>
 <br/>
 <br/>
 </p>
