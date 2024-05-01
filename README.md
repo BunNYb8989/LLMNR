@@ -23,3 +23,12 @@ This query is typically a multicast message sent to the link-local multicast add
 3.Response: If the queried device recognizes its name and is present on the network, it responds directly to the querying device with its IP address.
 
 4.Resolution: The querying device receives the response and can then communicate directly with the target device using its IP address.
+
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="github.com/BunNYb8989/LLMNR/blob/main/responder.png" height="40%" width="40%"/>
+<br/>
+<br/>
+</p>
