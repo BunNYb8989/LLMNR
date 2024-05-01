@@ -64,3 +64,12 @@ When it detects an LLMNR query, it will respond with a malicious response, poten
 
 Here the victim is trying to access the files. But in the background throught the WHITESHARK we can see the packets
 
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/whiteshark.png" height="40%" width="40%"/>
+<br/>
+<br/>
+</p>
+
