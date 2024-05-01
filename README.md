@@ -57,8 +57,7 @@ When it detects an LLMNR query, it will respond with a malicious response, poten
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/victim.png
-" height="40%" width="40%"/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/victim.png" height="40%" width="40%"/>
 <br/>
 <br/>
 </p>
