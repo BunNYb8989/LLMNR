@@ -1,5 +1,5 @@
 # LLMNR-POISONING
-
+LLMNR (Link-Local Multicast Name Resolution)
 What is LLMNR?
 LLMNR is a protocol that allows both IPv4 and IPv6 hosts to perform name resolution for hosts on the same local network without requiring a DNS server or DNS configuration.
 
